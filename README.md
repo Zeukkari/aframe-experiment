@@ -1,2 +1,3 @@
 # aframe-experiement
-photosphere gallery demo
+
+photosphere gallery demo: (https://zeukkari.github.io/aframe-experiment)[https://zeukkari.github.io/aframe-experiment]
